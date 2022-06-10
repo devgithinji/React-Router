@@ -1,16 +1,7 @@
 # React Router 6
 
-#### React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Run Complete Project
-
-- index.js
+Click [here](https://react-router-demo-ke.netlify.app) to visit the application
 
 ```js
 // import App from './App';
@@ -480,7 +471,7 @@ export default Dashboard;
 - ProtectedRoute.js
 
 ```js
-import { Navigate } from 'react-router-dom';
+https://react-router-demo-ke.netlify.app/import { Navigate } from 'react-router-dom';
 
 const ProtectedRoute = ({ children, user }) => {
   if (!user) {
@@ -491,3 +482,5 @@ const ProtectedRoute = ({ children, user }) => {
 
 export default ProtectedRoute;
 ```
+
+Dennis Githinji 👍
